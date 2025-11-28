@@ -1,0 +1,33 @@
+@import url("./constants.css");
+
+* {
+    box-sizing: border-box;
+}
+
+html, body, h1,
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.page {
+    min-height: 100vh;
+    background-color: var(--main-color);
+    font-family: "Figtree", sans-serif;
+}
+
+.blog-card {
+
+}
+
+.blog-card__img {
+
+}
+
+.blog-card__info {
+
+}
+
+.blog-card__author-info {
+
+}
