@@ -1,12 +1,14 @@
 :root {
     --main-color: hsl(47, 88%, 63%);
     --card-color: hsl(0, 0%, 100%);
+    --grey-950: hsl(0, 0%, 7%);
+    --grey-500: hsl(0, 0%, 42%);
 }
 
 @font-face {
     font-family: "Figtree", sans-serif;
     src: url("../assets/fonts/static/Figtree-ExtraBold.ttf") format("ttf");
-    font-weight: 500;
+    font-weight: 800;
     font-style: normal;
 }
 
