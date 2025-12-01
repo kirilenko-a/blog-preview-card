@@ -3,6 +3,7 @@
     --card-color: hsl(0, 0%, 100%);
     --grey-950: hsl(0, 0%, 7%);
     --grey-500: hsl(0, 0%, 42%);
+    --heading-active-color: hsl(47, 60%, 50%);
 }
 
 @font-face {
